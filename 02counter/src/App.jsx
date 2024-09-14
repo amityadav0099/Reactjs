@@ -13,11 +13,15 @@
 //     counter = counter+1;
 //     console.log("Value added",counter);
 //     setCounter(counter)
+   
 //   }
 
 //   const removeValue = () =>{
 //     counter -= 1;
 //     console.log("value removed",counter)
+//     setCounter(counter)
+//     setCounter(counter)
+//     setCounter(counter)
 //     setCounter(counter)
 //   }
 //   return (
@@ -27,7 +31,7 @@
 
 //     <button
 //     onClick={addValue}
-//     >Add Value{counter+1}</button>
+//     >Add Value{counter}</button>
    
 // <br />
 // <button
